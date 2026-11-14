@@ -1,12 +1,11 @@
 <img align="right" src="./assets/mona.gif" width="220" alt="Pixel-art Mona cat" />
 
-# Hi, I'm Eduardo Samuel Sánchez Leyva 👋
+# Hi, I'm Samuel Leyva
 
 **Software Engineer** · Computer Systems Engineering student at
 [ESCOM – Instituto Politécnico Nacional](https://www.escom.ipn.mx/) 🇲🇽
 
-I'm a 24-year-old software engineer who enjoys building things end to end, from
-backend services to the interfaces people actually touch.
+I'm a 24-year-old software engineer who enjoys building things end to end, from backend services to the interfaces people actually touch.
 
 - 💼 Currently working as a **Software Engineer Intern at [Nubank](https://nubank.com.br/)**
 - λ Fell in love with **Clojure** and **functional programming**
@@ -36,10 +35,6 @@ backend services to the interfaces people actually touch.
 **Design**
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&perline=10" alt="Design" />
-
-## 🚀 Projects
-
-> 🚧 Work in progress — personal projects coming soon.
 
 ## 🤝 Connect with me
 
